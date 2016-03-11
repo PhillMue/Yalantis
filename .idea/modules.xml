@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Yalantis.iml" filepath="$PROJECT_DIR$/Yalantis.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circualreveal-release/circualreveal-release.iml" filepath="$PROJECT_DIR$/circualreveal-release/circualreveal-release.iml" />
       <module fileurl="file://$PROJECT_DIR$/library-debug (1)/library-debug (1).iml" filepath="$PROJECT_DIR$/library-debug (1)/library-debug (1).iml" />
     </modules>
   </component>
