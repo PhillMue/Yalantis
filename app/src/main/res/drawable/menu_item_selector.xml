@@ -1,7 +1,7 @@
-<resources>
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
-
-    <dimen name="sliding_menu_width">80dp</dimen>
-</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/item_down"/>
+    <item android:state_selected="true" android:drawable="@drawable/item_down"/>
+    <item android:state_focused="true" android:drawable="@drawable/item_down"/>
+    <item android:drawable="@drawable/item_up"/>
+</selector>
