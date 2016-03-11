@@ -1,4 +1,4 @@
-package com.menu.side.yalantis.fragment.;
+package com.menu.side.yalantis;
 
 import android.content.res.Configuration;
 import android.graphics.Color;
@@ -14,7 +14,6 @@ import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 import android.widget.LinearLayout;
 
-import com.menu.side.yalantis.R;
 import com.menu.side.yalantis.fragment.ContentFragment;
 
 import java.util.ArrayList;

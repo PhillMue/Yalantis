@@ -1,6 +1,5 @@
 package com.menu.side.yalantis.fragment;
 
-import android.app.Fragment;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.os.Bundle;
@@ -17,7 +16,7 @@ import yalantis.com.sidemenu.interfaces.ScreenShotable;
 /**
  * Created by mue on 3/11/16.
  */
-public class ContentFragment extends Fragment implements ScreenShotable {
+public class ContentFragment extends android.support.v4.app.Fragment implements ScreenShotable {
     public static final String CLOSE = "Close";
     public static final String BUILDING = "Building";
     public static final String BOOK = "Book";
