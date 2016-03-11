@@ -1,5 +1,6 @@
 package com.menu.side.yalantis.fragment;
 
+import android.app.Fragment;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.os.Bundle;
